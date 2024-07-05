@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "51303bbbdeae5a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f7d8d7c699573d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20185617fe87511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "转子磁场定向.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72fcccecb979f5e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "补充知识/电机磁链的解释.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a9dd6a57c855893",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1cd0a1a7fc8811a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf1d36c7446b4f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cfd09ab898d12e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2653f400597de63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8d900251a460dcdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e9e2291071c3ca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6cbcb8f334457a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "补充知识/电机磁链的解释.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d941602dcb4ff94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "补充知识/电机磁链的解释.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4da8c9a902ae8a2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "edf13502de345344",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "补充知识/电机磁链的解释.md"
+              }
+            }
+          },
+          {
+            "id": "29522c84b9f46615",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "72fcccecb979f5e8",
+  "lastOpenFiles": [
+    "补充知识/Img/Pasted image 20240705160252.png",
+    "补充知识/Img",
+    "转子磁场定向.md",
+    "补充知识/电机磁链的解释.md",
+    "补充知识",
+    "Img/Pasted image 20240705155850.png",
+    "Img/Pasted image 20240705155659.png",
+    "Img/Pasted image 20240705155639.png",
+    "Img",
+    "Img/Pasted image 20240705155135.png",
+    "欢迎.md"
+  ]
+}
