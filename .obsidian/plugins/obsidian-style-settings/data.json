@@ -2,7 +2,7 @@
   "blue-topaz-theme@@paragraph-spacing": 1.5,
   "blue-topaz-theme@@letter-space-main": 1,
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
-  "blue-topaz-theme@@font-family-change-to-default": true,
+  "blue-topaz-theme@@font-family-change-to-default": false,
   "blue-topaz-theme@@bt-status-on": false,
   "blue-topaz-theme@@file-line-width": 60,
   "blue-topaz-theme@@clutter-free-headings": true,

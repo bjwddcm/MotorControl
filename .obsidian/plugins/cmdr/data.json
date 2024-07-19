@@ -20,6 +20,12 @@
       "icon": "lucide-code",
       "name": "插入代码块",
       "mode": "any"
+    },
+    {
+      "id": "oz-clear-unused-images:clear-images-obsidian",
+      "icon": "activity",
+      "name": "Clear Unused Images: Clear Unused Images",
+      "mode": "any"
     }
   ],
   "pageHeader": [],
