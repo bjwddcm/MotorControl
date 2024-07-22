@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7841b3f67900bd6",
+        "id": "dfb445b790897c66",
         "type": "tabs",
         "children": [
           {
-            "id": "1fa117dc0eab173d",
+            "id": "dff2a1663e0eeab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Model implementation/SVPWM.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8d900251a460dcdc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Model implementation/SVPWM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Model implementation/SVPWM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Model implementation/SVPWM.md"
               }
             }
           },
@@ -157,9 +158,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1fa117dc0eab173d",
+  "active": "dff2a1663e0eeab4",
   "lastOpenFiles": [
+    "Simulink/SLX/SVPWM.slx.bak",
+    "Model implementation/Img/Pasted image 20240722111420.png",
+    "Model implementation/Img/Pasted image 20240722110703.png",
+    "Model implementation/Img/Pasted image 20240722110253.png",
+    "Model implementation/Img/Pasted image 20240722110248.png",
     "Homepage.md",
+    "Model implementation/SVPWM.md",
+    "Model implementation/Img/Pasted image 20240722104450.png",
     "转子磁场定向.md",
     "欢迎.md",
     "永磁同步电机的建模与控制",
@@ -173,18 +181,12 @@
     "MATLAB Code/Common Functions/Img",
     "MATLAB Code/Common Functions",
     "MATLAB Code",
-    "Model implementation/SVPWM.md",
     "Model implementation/IF启动.md",
     "Model implementation/Img/Pasted image 20240708110529.png",
     "Model implementation/Img",
     "Model implementation",
-    "Img/Pasted image 20240705170530.png",
-    "补充知识/Img/Pasted image 20240705164001.png",
-    "补充知识/Img/Pasted image 20240705160252.png",
     "补充知识/Img",
     "补充知识",
-    "Img/Pasted image 20240705155850.png",
-    "Img/Pasted image 20240705155659.png",
     "Img"
   ]
 }
