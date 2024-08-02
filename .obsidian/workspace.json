@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dfb445b790897c66",
+        "id": "f8ce9af7887d271f",
         "type": "tabs",
         "children": [
           {
-            "id": "dff2a1663e0eeab4",
+            "id": "9ab06c96647745a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model implementation/SVPWM.md",
+                "file": "补充知识/电机磁链.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8d900251a460dcdc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model implementation/SVPWM.md",
+                "file": "补充知识/电机磁链.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model implementation/SVPWM.md",
+                "file": "补充知识/电机磁链.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model implementation/SVPWM.md"
+                "file": "补充知识/电机磁链.md"
               }
             }
           },
@@ -158,35 +157,42 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dff2a1663e0eeab4",
+  "active": "9ab06c96647745a4",
   "lastOpenFiles": [
+    "补充知识/伏秒平衡.md",
+    "补充知识/电机磁链.md",
+    "Homepage.md",
+    "永磁同步电机的建模与控制/SVPWM基础.md",
+    "电子元器件/IGBT.md",
+    "汽车架构/电机控制器.md",
+    "汽车架构/Img/Pasted image 20240801104051.png",
+    "汽车架构/Img/Pasted image 20240801103902.png",
+    "汽车架构/Img/Pasted image 20240801103817.png",
+    "汽车架构/Img/Pasted image 20240801103502.png",
+    "电子元器件",
+    "汽车架构/Img/Pasted image 20240801094630.png",
+    "汽车架构/Img",
+    "永磁同步电机的建模与控制/再生制动.md",
+    "永磁同步电机的建模与控制/弱磁.md",
+    "Img/Pasted image 20240801092301.png",
+    "Img/Pasted image 20240801092134.png",
+    "汽车架构",
+    "Img/Pasted image 20240801085942.png",
+    "C编程技巧/位字段.md",
+    "C编程技巧",
+    "转子磁场定向.md",
+    "Model implementation/SVPWM.md",
     "Simulink/SLX/SVPWM.slx.bak",
     "Model implementation/Img/Pasted image 20240722111420.png",
     "Model implementation/Img/Pasted image 20240722110703.png",
-    "Model implementation/Img/Pasted image 20240722110253.png",
-    "Model implementation/Img/Pasted image 20240722110248.png",
-    "Homepage.md",
-    "Model implementation/SVPWM.md",
-    "Model implementation/Img/Pasted image 20240722104450.png",
-    "转子磁场定向.md",
     "欢迎.md",
     "永磁同步电机的建模与控制",
-    "补充知识/电机磁链的解释.md",
     "MATLAB Code/Common Functions/plot.md",
-    "MATLAB Code/Common Functions/Img/Pasted image 20240708144232.png",
-    "MATLAB Code/Common Functions/Img/Pasted image 20240708143424.png",
-    "MATLAB Code/Common Functions/Img/code-snapshot-1720420414809.png",
     "MATLAB Code/Common Functions/figure.md",
-    "MATLAB Code/Common Functions/Img/Pasted image 20240708140929.png",
     "MATLAB Code/Common Functions/Img",
     "MATLAB Code/Common Functions",
     "MATLAB Code",
     "Model implementation/IF启动.md",
-    "Model implementation/Img/Pasted image 20240708110529.png",
-    "Model implementation/Img",
-    "Model implementation",
-    "补充知识/Img",
-    "补充知识",
-    "Img"
+    "Model implementation/Img"
   ]
 }
